@@ -34,11 +34,15 @@ Directories
 * WordPress: Contains `xss.js` used during the live demo.
 * vBulletin: Contains the newest version of the `vbseo.py`
 
-Developed by
+Developed By
 ------------
 * Hans-Michael Varbaek
 
-Code design
+Credits
+------------
+* MaXe / InterN0T
+
+Code Design
 -----------
 * It works!
 * WordPress `xss.js` has re-usable functions!
