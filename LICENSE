@@ -27,3 +27,6 @@ The author's moral rights;
 Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
 Notice — For any reuse or distribution, you must make clear to others the licence terms of this work.
+
+
+This license does not apply to meterpreter.php (refer to Metasploit's license) and php-reverse-shell.php (refer to the attached GPLv2).
